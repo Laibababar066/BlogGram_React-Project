@@ -1,4 +1,3 @@
-# BlogGram_React-Project
 # Bloggram – Social Media Blog (Frontend)
 
 Bloggram is a simple **social media blogging platform frontend** built using **React and Vite**. The project focuses on core social media interactions such as creating posts, liking posts, and managing content in a clean and interactive UI.
